@@ -52,7 +52,7 @@ public class CreerCommandeFrame extends PharmBaseFrame {
         addInf(info, "Employé :"); txtNumEmp = PharmTheme.textField("1"); txtNumEmp.setPreferredSize(new Dimension(60, 32)); info.add(txtNumEmp);
         contentArea.add(info, BorderLayout.NORTH);
 
-        // Center: add line + table
+      
         JPanel center = new JPanel(new BorderLayout(0, 10)); center.setBackground(PharmTheme.BG);
 
         JPanel addRow = PharmTheme.card();
