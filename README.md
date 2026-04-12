@@ -1,5 +1,5 @@
 # Gestion Pharmacie — PharmaSys
-
+![YOLO](https://img.shields.io/badge/YOLO-true-orange)
 ## Prérequis
 - Java 21+
 - MySQL 8+
