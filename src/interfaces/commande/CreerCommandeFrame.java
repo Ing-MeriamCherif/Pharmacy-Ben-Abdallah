@@ -41,7 +41,6 @@ public class CreerCommandeFrame extends PharmBaseFrame {
     private void buildUI() {
         contentArea.setLayout(new BorderLayout(0, 12));
 
-        // Header info
         JPanel info = PharmTheme.card();
         info.setLayout(new FlowLayout(FlowLayout.LEFT, 14, 10));
         info.setBorder(new PharmTheme.RoundedBorder(PharmTheme.R8, PharmTheme.BORDER, 0));
