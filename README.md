@@ -82,3 +82,12 @@ Developed by students as part of a university software engineering project.
 📌 Note
 
 This project was built for educational purposes, but it is designed with real-world pharmacy workflows in mind.
+<img width="1511" height="795" alt="image" src="https://github.com/user-attachments/assets/b8149c6e-1f53-4160-b642-34eb1ec14085" />
+<img width="1577" height="731" alt="image" src="https://github.com/user-attachments/assets/33bb92cd-af93-4b6a-9e74-b5b6c95b05cc" />
+<img width="1522" height="712" alt="image" src="https://github.com/user-attachments/assets/c8a6ea7d-0479-49e4-b1f5-23c8b00a965d" />
+
+<img width="1487" height="755" alt="image" src="https://github.com/user-attachments/assets/30c79bfd-2388-40e4-9118-59226b8b150d" />
+
+
+
+
